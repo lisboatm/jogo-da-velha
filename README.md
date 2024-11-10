@@ -1,5 +1,3 @@
-## README
-
 ### Jogo da Velha - Oficial
 
 Este projeto é uma implementação do clássico jogo da velha (ou "tic-tac-toe") com diversas funcionalidades, incluindo modos de jogo entre humanos e entre computador e humano. O código utiliza a biblioteca `tensorflow` e outras bibliotecas comuns para simulação e aprendizado de máquina, embora a implementação principal não utilize diretamente essas funcionalidades. O jogo pode ser jogado em três modos:
